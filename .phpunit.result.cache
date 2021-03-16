@@ -1,1 +1,1 @@
-C:37:"PHPUnit\Runner\DefaultTestResultCache":148:{a:2:{s:7:"defects";a:1:{s:38:"App\Tests\Util\CalculatorTest::testAdd";i:3;}s:5:"times";a:1:{s:38:"App\Tests\Util\CalculatorTest::testAdd";d:0.006;}}}
+C:37:"PHPUnit\Runner\DefaultTestResultCache":148:{a:2:{s:7:"defects";a:1:{s:38:"App\Tests\Util\CalculatorTest::testAdd";i:3;}s:5:"times";a:1:{s:38:"App\Tests\Util\CalculatorTest::testAdd";d:0.187;}}}
